@@ -1,0 +1,15 @@
+# Keil uVision generated build output
+source/IntelligentFanSystem/Objects/
+source/IntelligentFanSystem/Listings/
+
+# Per-user IDE window/layout state
+source/IntelligentFanSystem/*.uvguix.*
+source/IntelligentFanSystem/*.uvoptx.user
+
+# Common editor and OS files
+.vscode/
+.idea/
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
